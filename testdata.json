@@ -1,0 +1,338 @@
+[
+    {
+      "roomNo": "401",
+      "category": "lecture hall",
+      "blockNo": "D2 Block",
+      "schedule": {
+        "monday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        },
+        "tuesday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        },
+        "wednesday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        },
+        "thursday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        },
+        "friday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        },
+        "saturday": {
+          "1": "occupied",
+          "2": "occupied",
+          "3": "occupied",
+          "4": "free",
+          "5": "free",
+          "6": "occupied",
+          "7": "occupied",
+          "8": "free"
+        }
+      }
+    },
+    {
+      "roomNo": "402",
+      "category": "lab",
+      "blockNo": "D2 Block",
+      "schedule": {
+        "monday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        },
+        "tuesday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        },
+        "wednesday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        },
+        "thursday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        },
+        "friday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        },
+        "saturday": {
+          "1": "free",
+          "2": "occupied",
+          "3": "free",
+          "4": "free",
+          "5": "occupied",
+          "6": "occupied",
+          "7": "free",
+          "8": "free"
+        }
+      }
+    },
+    {
+      "roomNo": "403",
+      "category": "seminar hall",
+      "blockNo": "D2 Block",
+      "schedule": {
+        "monday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "tuesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "wednesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "thursday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "friday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "saturday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        }
+      }
+    },
+    {
+      "roomNo": "404",
+      "category": "lecture hall",
+      "blockNo": "D2 Block",
+      "schedule": {
+        "monday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "tuesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "wednesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "thursday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "friday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "saturday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        }
+      }
+    },
+    {
+      "roomNo": "405",
+      "category": "lecture hall",
+      "blockNo": "D2 Block",
+      "schedule": {
+        "monday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "tuesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "wednesday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "thursday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "friday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        },
+        "saturday": {
+          "1": "occupied",
+          "2": "free",
+          "3": "free",
+          "4": "occupied",
+          "5": "free",
+          "6": "free",
+          "7": "occupied",
+          "8": "free"
+        }
+      }
+    }
+  ]
+  
