@@ -1,0 +1,887 @@
+[
+    {
+      "name": "Aditya Bharti",
+      "email_id": "21ecs1234@cuchd.in",
+      "t_id": "21ece1234",
+      "department": ["cse-aiml"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 101 D4 Block",
+          "2": "Room No. 102 D4 Block",
+          "3": "Room No. 103 D4 Block",
+          "4": "Room No. 104 D4 Block",
+          "5": "Room No. 105 D4 Block",
+          "6": "Room No. 106 D4 Block",
+          "7": "Room No. 107 D4 Block",
+          "8": "Room No. 108 D4 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 201 D4 Block",
+          "2": "Room No. 202 D4 Block",
+          "3": "Room No. 203 D4 Block",
+          "4": "Room No. 204 D4 Block",
+          "5": "Room No. 205 D4 Block",
+          "6": "Room No. 206 D4 Block",
+          "7": "Room No. 207 D4 Block",
+          "8": "Room No. 208 D4 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 301 D4 Block",
+          "2": "Room No. 302 D4 Block",
+          "3": "Room No. 303 D4 Block",
+          "4": "Room No. 304 D4 Block",
+          "5": "Room No. 305 D4 Block",
+          "6": "Room No. 306 D4 Block",
+          "7": "Room No. 307 D4 Block",
+          "8": "Room No. 308 D4 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 401 D4 Block",
+          "2": "Room No. 402 D4 Block",
+          "3": "Room No. 403 D4 Block",
+          "4": "Room No. 404 D4 Block",
+          "5": "Room No. 405 D4 Block",
+          "6": "Room No. 406 D4 Block",
+          "7": "Room No. 407 D4 Block",
+          "8": "Room No. 408 D4 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Room No. 414 D3 Block",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Room No. 407 D4 Block",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "John Doe",
+      "email_id": "john.doe@example.com",
+      "t_id": "21ece5678",
+      "department": ["cse-ai"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 108 D4 Block",
+          "2": "Room No. 107 D4 Block",
+          "3": "Room No. 106 D4 Block",
+          "4": "Room No. 105 D4 Block",
+          "5": "Room No. 104 D4 Block",
+          "6": "Room No. 103 D4 Block",
+          "7": "Room No. 102 D4 Block",
+          "8": "Room No. 101 D4 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 208 D4 Block",
+          "2": "Room No. 207 D4 Block",
+          "3": "Room No. 206 D4 Block",
+          "4": "Room No. 205 D4 Block",
+          "5": "Room No. 204 D4 Block",
+          "6": "Room No. 203 D4 Block",
+          "7": "Room No. 202 D4 Block",
+          "8": "Room No. 201 D4 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 308 D4 Block",
+          "2": "Room No. 307 D4 Block",
+          "3": "Room No. 306 D4 Block",
+          "4": "Room No. 305 D4 Block",
+          "5": "Room No. 304 D4 Block",
+          "6": "Room No. 303 D4 Block",
+          "7": "Room No. 302 D4 Block",
+          "8": "Room No. 301 D4 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 408 D4 Block",
+          "2": "Room No. 407 D4 Block",
+          "3": "Room No. 406 D4 Block",
+          "4": "Room No. 405 D4 Block",
+          "5": "Room No. 404 D4 Block",
+          "6": "Room No. 403 D4 Block",
+          "7": "Room No. 402 D4 Block",
+          "8": "Room No. 401 D4 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Alice Johnson",
+      "email_id": "alice.johnson@example.com",
+      "t_id": "21ece9876",
+      "department": ["cse-ml", "cse-ds"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 201 D5 Block",
+          "2": "Room No. 202 D5 Block",
+          "3": "Room No. 203 D5 Block",
+          "4": "Room No. 204 D5 Block",
+          "5": "Room No. 205 D5 Block",
+          "6": "Room No. 206 D5 Block",
+          "7": "Room No. 207 D5 Block",
+          "8": "Room No. 208 D5 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 301 D5 Block",
+          "2": "Room No. 302 D5 Block",
+          "3": "Room No. 303 D5 Block",
+          "4": "Room No. 304 D5 Block",
+          "5": "Room No. 305 D5 Block",
+          "6": "Room No. 306 D5 Block",
+          "7": "Room No. 307 D5 Block",
+          "8": "Room No. 308 D5 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 401 D5 Block",
+          "2": "Room No. 402 D5 Block",
+          "3": "Room No. 403 D5 Block",
+          "4": "Room No. 404 D5 Block",
+          "5": "Room No. 405 D5 Block",
+          "6": "Room No. 406 D5 Block",
+          "7": "Room No. 407 D5 Block",
+          "8": "Room No. 408 D5 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 101 D5 Block",
+          "2": "Room No. 102 D5 Block",
+          "3": "Room No. 103 D5 Block",
+          "4": "Room No. 104 D5 Block",
+          "5": "Room No. 105 D5 Block",
+          "6": "Room No. 106 D5 Block",
+          "7": "Room No. 107 D5 Block",
+          "8": "Room No. 108 D5 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Room No. 108 D5 Block"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Room No. 108 D5 Block",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Emily Brown",
+      "email_id": "emily.brown@example.com",
+      "t_id": "21ece5432",
+      "department": ["cse-ml"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 301 D6 Block",
+          "2": "Room No. 302 D6 Block",
+          "3": "Room No. 303 D6 Block",
+          "4": "Room No. 304 D6 Block",
+          "5": "Room No. 305 D6 Block",
+          "6": "Room No. 306 D6 Block",
+          "7": "Room No. 307 D6 Block",
+          "8": "Room No. 308 D6 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 401 D6 Block",
+          "2": "Room No. 402 D6 Block",
+          "3": "Room No. 403 D6 Block",
+          "4": "Room No. 404 D6 Block",
+          "5": "Room No. 405 D6 Block",
+          "6": "Room No. 406 D6 Block",
+          "7": "Room No. 407 D6 Block",
+          "8": "Room No. 408 D6 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 101 D6 Block",
+          "2": "Room No. 102 D6 Block",
+          "3": "Room No. 103 D6 Block",
+          "4": "Room No. 104 D6 Block",
+          "5": "Room No. 105 D6 Block",
+          "6": "Room No. 106 D6 Block",
+          "7": "Room No. 107 D6 Block",
+          "8": "Room No. 108 D6 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 201 D6 Block",
+          "2": "Room No. 202 D6 Block",
+          "3": "Room No. 203 D6 Block",
+          "4": "Room No. 204 D6 Block",
+          "5": "Room No. 205 D6 Block",
+          "6": "Room No. 206 D6 Block",
+          "7": "Room No. 207 D6 Block",
+          "8": "Room No. 208 D6 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Room No. 108 D5 Block",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Room No. 108 D5 Block",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Michael Smith",
+      "email_id": "michael.smith@example.com",
+      "t_id": "21ece2468",
+      "department": ["cse-ai"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 501 D7 Block",
+          "2": "Room No. 502 D7 Block",
+          "3": "Room No. 503 D7 Block",
+          "4": "Room No. 504 D7 Block",
+          "5": "Room No. 505 D7 Block",
+          "6": "Room No. 506 D7 Block",
+          "7": "Room No. 507 D7 Block",
+          "8": "Room No. 508 D7 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 601 D7 Block",
+          "2": "Room No. 602 D7 Block",
+          "3": "Room No. 603 D7 Block",
+          "4": "Room No. 604 D7 Block",
+          "5": "Room No. 605 D7 Block",
+          "6": "Room No. 606 D7 Block",
+          "7": "Room No. 607 D7 Block",
+          "8": "Room No. 608 D7 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 701 D7 Block",
+          "2": "Room No. 702 D7 Block",
+          "3": "Room No. 703 D7 Block",
+          "4": "Room No. 704 D7 Block",
+          "5": "Room No. 705 D7 Block",
+          "6": "Room No. 706 D7 Block",
+          "7": "Room No. 707 D7 Block",
+          "8": "Room No. 708 D7 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 801 D7 Block",
+          "2": "Room No. 802 D7 Block",
+          "3": "Room No. 803 D7 Block",
+          "4": "Room No. 804 D7 Block",
+          "5": "Room No. 805 D7 Block",
+          "6": "Room No. 806 D7 Block",
+          "7": "Room No. 807 D7 Block",
+          "8": "Room No. 808 D7 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Room No. 605 D7 Block",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Room No. 605 D7 Block",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Sophia Martinez",
+      "email_id": "sophia.martinez@example.com",
+      "t_id": "21ece1357",
+      "department": ["cse-bda"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 601 D8 Block",
+          "2": "Room No. 602 D8 Block",
+          "3": "Room No. 603 D8 Block",
+          "4": "Room No. 604 D8 Block",
+          "5": "Room No. 605 D8 Block",
+          "6": "Room No. 606 D8 Block",
+          "7": "Room No. 607 D8 Block",
+          "8": "Room No. 608 D8 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 701 D8 Block",
+          "2": "Room No. 702 D8 Block",
+          "3": "Room No. 703 D8 Block",
+          "4": "Room No. 704 D8 Block",
+          "5": "Room No. 705 D8 Block",
+          "6": "Room No. 706 D8 Block",
+          "7": "Room No. 707 D8 Block",
+          "8": "Room No. 708 D8 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 801 D8 Block",
+          "2": "Room No. 802 D8 Block",
+          "3": "Room No. 803 D8 Block",
+          "4": "Room No. 804 D8 Block",
+          "5": "Room No. 805 D8 Block",
+          "6": "Room No. 806 D8 Block",
+          "7": "Room No. 807 D8 Block",
+          "8": "Room No. 808 D8 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 501 D8 Block",
+          "2": "Room No. 502 D8 Block",
+          "3": "Room No. 503 D8 Block",
+          "4": "Room No. 504 D8 Block",
+          "5": "Room No. 505 D8 Block",
+          "6": "Room No. 506 D8 Block",
+          "7": "Room No. 507 D8 Block",
+          "8": "Room No. 508 D8 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Room No. 612 D8 Block",
+          "5": "Free",
+          "6": "Free",
+          "7": "Room No. 605 D8 Block",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Samantha Miller",
+      "email_id": "samantha.miller@example.com",
+      "t_id": "21ece9876",
+      "department": ["cse-ml"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 201 D9 Block",
+          "2": "Room No. 202 D9 Block",
+          "3": "Room No. 203 D9 Block",
+          "4": "Room No. 204 D9 Block",
+          "5": "Room No. 205 D9 Block",
+          "6": "Room No. 206 D9 Block",
+          "7": "Room No. 207 D9 Block",
+          "8": "Room No. 208 D9 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 301 D9 Block",
+          "2": "Room No. 302 D9 Block",
+          "3": "Room No. 303 D9 Block",
+          "4": "Room No. 304 D9 Block",
+          "5": "Room No. 305 D9 Block",
+          "6": "Room No. 306 D9 Block",
+          "7": "Room No. 307 D9 Block",
+          "8": "Room No. 308 D9 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 401 D9 Block",
+          "2": "Room No. 402 D9 Block",
+          "3": "Room No. 403 D9 Block",
+          "4": "Room No. 404 D9 Block",
+          "5": "Room No. 405 D9 Block",
+          "6": "Room No. 406 D9 Block",
+          "7": "Room No. 407 D9 Block",
+          "8": "Room No. 408 D9 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 501 D9 Block",
+          "2": "Room No. 502 D9 Block",
+          "3": "Room No. 503 D9 Block",
+          "4": "Room No. 504 D9 Block",
+          "5": "Room No. 505 D9 Block",
+          "6": "Room No. 506 D9 Block",
+          "7": "Room No. 507 D9 Block",
+          "8": "Room No. 508 D9 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Room No. 605 D8 Block",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "David Wilson",
+      "email_id": "david.wilson@example.com",
+      "t_id": "21ece5432",
+      "department": ["cse-bd"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 101 D10 Block",
+          "2": "Room No. 102 D10 Block",
+          "3": "Room No. 103 D10 Block",
+          "4": "Room No. 104 D10 Block",
+          "5": "Room No. 105 D10 Block",
+          "6": "Room No. 106 D10 Block",
+          "7": "Room No. 107 D10 Block",
+          "8": "Room No. 108 D10 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 201 D10 Block",
+          "2": "Room No. 202 D10 Block",
+          "3": "Room No. 203 D10 Block",
+          "4": "Room No. 204 D10 Block",
+          "5": "Room No. 205 D10 Block",
+          "6": "Room No. 206 D10 Block",
+          "7": "Room No. 207 D10 Block",
+          "8": "Room No. 208 D10 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 301 D10 Block",
+          "2": "Room No. 302 D10 Block",
+          "3": "Room No. 303 D10 Block",
+          "4": "Room No. 304 D10 Block",
+          "5": "Room No. 305 D10 Block",
+          "6": "Room No. 306 D10 Block",
+          "7": "Room No. 307 D10 Block",
+          "8": "Room No. 308 D10 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 401 D10 Block",
+          "2": "Room No. 402 D10 Block",
+          "3": "Room No. 403 D10 Block",
+          "4": "Room No. 404 D10 Block",
+          "5": "Room No. 405 D10 Block",
+          "6": "Room No. 406 D10 Block",
+          "7": "Room No. 407 D10 Block",
+          "8": "Room No. 408 D10 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Room No. 406 D10 Block",
+          "5": "Room No. 406 D10 Block",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Olivia Johnson",
+      "email_id": "olivia.johnson@example.com",
+      "t_id": "21ece6543",
+      "department": ["cse-ai"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 201 D11 Block",
+          "2": "Room No. 202 D11 Block",
+          "3": "Room No. 203 D11 Block",
+          "4": "Room No. 204 D11 Block",
+          "5": "Room No. 205 D11 Block",
+          "6": "Room No. 206 D11 Block",
+          "7": "Room No. 207 D11 Block",
+          "8": "Room No. 208 D11 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 301 D11 Block",
+          "2": "Room No. 302 D11 Block",
+          "3": "Room No. 303 D11 Block",
+          "4": "Room No. 304 D11 Block",
+          "5": "Room No. 305 D11 Block",
+          "6": "Room No. 306 D11 Block",
+          "7": "Room No. 307 D11 Block",
+          "8": "Room No. 308 D11 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 401 D11 Block",
+          "2": "Room No. 402 D11 Block",
+          "3": "Room No. 403 D11 Block",
+          "4": "Room No. 404 D11 Block",
+          "5": "Room No. 405 D11 Block",
+          "6": "Room No. 406 D11 Block",
+          "7": "Room No. 407 D11 Block",
+          "8": "Room No. 408 D11 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 501 D11 Block",
+          "2": "Room No. 502 D11 Block",
+          "3": "Room No. 503 D11 Block",
+          "4": "Room No. 504 D11 Block",
+          "5": "Room No. 505 D11 Block",
+          "6": "Room No. 506 D11 Block",
+          "7": "Room No. 507 D11 Block",
+          "8": "Room No. 508 D11 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Room No. 206 D11 Block",
+          "6": "Free",
+          "7": "Room No. 206 D11 Block",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Ethan Garcia",
+      "email_id": "ethan.garcia@example.com",
+      "t_id": "21ece4321",
+      "department": ["cse-ai"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 101 D12 Block",
+          "2": "Room No. 102 D12 Block",
+          "3": "Room No. 103 D12 Block",
+          "4": "Room No. 104 D12 Block",
+          "5": "Room No. 105 D12 Block",
+          "6": "Room No. 106 D12 Block",
+          "7": "Room No. 107 D12 Block",
+          "8": "Room No. 108 D12 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 201 D12 Block",
+          "2": "Room No. 202 D12 Block",
+          "3": "Room No. 203 D12 Block",
+          "4": "Room No. 204 D12 Block",
+          "5": "Room No. 205 D12 Block",
+          "6": "Room No. 206 D12 Block",
+          "7": "Room No. 207 D12 Block",
+          "8": "Room No. 208 D12 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 301 D12 Block",
+          "2": "Room No. 302 D12 Block",
+          "3": "Room No. 303 D12 Block",
+          "4": "Room No. 304 D12 Block",
+          "5": "Room No. 305 D12 Block",
+          "6": "Room No. 306 D12 Block",
+          "7": "Room No. 307 D12 Block",
+          "8": "Room No. 308 D12 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 401 D12 Block",
+          "2": "Room No. 402 D12 Block",
+          "3": "Room No. 403 D12 Block",
+          "4": "Room No. 404 D12 Block",
+          "5": "Room No. 405 D12 Block",
+          "6": "Room No. 406 D12 Block",
+          "7": "Room No. 407 D12 Block",
+          "8": "Room No. 408 D12 Block"
+        },
+        "Friday": {
+          "1": "Room No. 306 D12 Block",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Room No. 306 D12 Block",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "William Brown",
+      "email_id": "william.brown@example.com",
+      "t_id": "21ece3210",
+      "department": ["cse-bd"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 401 D13 Block",
+          "2": "Room No. 402 D13 Block",
+          "3": "Room No. 403 D13 Block",
+          "4": "Room No. 404 D13 Block",
+          "5": "Room No. 405 D13 Block",
+          "6": "Room No. 406 D13 Block",
+          "7": "Room No. 407 D13 Block",
+          "8": "Room No. 408 D13 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 501 D13 Block",
+          "2": "Room No. 502 D13 Block",
+          "3": "Room No. 503 D13 Block",
+          "4": "Room No. 504 D13 Block",
+          "5": "Room No. 505 D13 Block",
+          "6": "Room No. 506 D13 Block",
+          "7": "Room No. 507 D13 Block",
+          "8": "Room No. 508 D13 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 601 D13 Block",
+          "2": "Room No. 602 D13 Block",
+          "3": "Room No. 603 D13 Block",
+          "4": "Room No. 604 D13 Block",
+          "5": "Room No. 605 D13 Block",
+          "6": "Room No. 606 D13 Block",
+          "7": "Room No. 607 D13 Block",
+          "8": "Room No. 608 D13 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 701 D13 Block",
+          "2": "Room No. 702 D13 Block",
+          "3": "Room No. 703 D13 Block",
+          "4": "Room No. 704 D13 Block",
+          "5": "Room No. 705 D13 Block",
+          "6": "Room No. 706 D13 Block",
+          "7": "Room No. 707 D13 Block",
+          "8": "Room No. 708 D13 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Room No. 502 D13 Block",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Room No. 502 D13 Block",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Emily Martinez",
+      "email_id": "emily.martinez@example.com",
+      "t_id": "21ece7654",
+      "department": ["cse-ds"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 101 D14 Block",
+          "2": "Room No. 102 D14 Block",
+          "3": "Room No. 103 D14 Block",
+          "4": "Room No. 104 D14 Block",
+          "5": "Room No. 105 D14 Block",
+          "6": "Room No. 106 D14 Block",
+          "7": "Room No. 107 D14 Block",
+          "8": "Room No. 108 D14 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 201 D14 Block",
+          "2": "Room No. 202 D14 Block",
+          "3": "Room No. 203 D14 Block",
+          "4": "Room No. 204 D14 Block",
+          "5": "Room No. 205 D14 Block",
+          "6": "Room No. 206 D14 Block",
+          "7": "Room No. 207 D14 Block",
+          "8": "Room No. 208 D14 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 301 D14 Block",
+          "2": "Room No. 302 D14 Block",
+          "3": "Room No. 303 D14 Block",
+          "4": "Room No. 304 D14 Block",
+          "5": "Room No. 305 D14 Block",
+          "6": "Room No. 306 D14 Block",
+          "7": "Room No. 307 D14 Block",
+          "8": "Room No. 308 D14 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 401 D14 Block",
+          "2": "Room No. 402 D14 Block",
+          "3": "Room No. 403 D14 Block",
+          "4": "Room No. 404 D14 Block",
+          "5": "Room No. 405 D14 Block",
+          "6": "Room No. 406 D14 Block",
+          "7": "Room No. 407 D14 Block",
+          "8": "Room No. 408 D14 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+      }
+    },
+    {
+      "name": "Daniel Thompson",
+      "email_id": "daniel.thompson@example.com",
+      "t_id": "21ece8765",
+      "department": ["cse-ai"],
+      "schedule": {
+        "Monday": {
+          "1": "Room No. 201 D15 Block",
+          "2": "Room No. 202 D15 Block",
+          "3": "Room No. 203 D15 Block",
+          "4": "Room No. 204 D15 Block",
+          "5": "Room No. 205 D15 Block",
+          "6": "Room No. 206 D15 Block",
+          "7": "Room No. 207 D15 Block",
+          "8": "Room No. 208 D15 Block"
+        },
+        "Tuesday": {
+          "1": "Room No. 301 D15 Block",
+          "2": "Room No. 302 D15 Block",
+          "3": "Room No. 303 D15 Block",
+          "4": "Room No. 304 D15 Block",
+          "5": "Room No. 305 D15 Block",
+          "6": "Room No. 306 D15 Block",
+          "7": "Room No. 307 D15 Block",
+          "8": "Room No. 308 D15 Block"
+        },
+        "Wednesday": {
+          "1": "Room No. 401 D15 Block",
+          "2": "Room No. 402 D15 Block",
+          "3": "Room No. 403 D15 Block",
+          "4": "Room No. 404 D15 Block",
+          "5": "Room No. 405 D15 Block",
+          "6": "Room No. 406 D15 Block",
+          "7": "Room No. 407 D15 Block",
+          "8": "Room No. 408 D15 Block"
+        },
+        "Thursday": {
+          "1": "Room No. 501 D15 Block",
+          "2": "Room No. 502 D15 Block",
+          "3": "Room No. 503 D15 Block",
+          "4": "Room No. 504 D15 Block",
+          "5": "Room No. 505 D15 Block",
+          "6": "Room No. 506 D15 Block",
+          "7": "Room No. 507 D15 Block",
+          "8": "Room No. 508 D15 Block"
+        },
+        "Friday": {
+          "1": "Free",
+          "2": "Free",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Room No. 506 D15 Block",
+          "7": "Free",
+          "8": "Free"
+        },
+        "Saturday": {
+          "1": "Free",
+          "2": "Room No. 506 D15 Block",
+          "3": "Free",
+          "4": "Free",
+          "5": "Free",
+          "6": "Free",
+          "7": "Free",
+          "8": "Free"
+        }
+    }
+}
+]
+  
